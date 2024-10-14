@@ -1,6 +1,6 @@
 Hi, I’m @StuartG24
 
-I have recently started a Masters course studying AI and have started to learn to use Python for data science and building Machine Learning models. 
+I have recently started a Masters course studying AI and have started to learn to use Python and R for data science and building Machine Learning models. 
 
 Hopefully I will do some simple ML projects and post them to Github to share and share ideas with others
 
