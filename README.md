@@ -1,3 +1,7 @@
-Currently studying for a full-time masters in AI and now a budding ML researcher/engineer after a break following a long first career as a programme manager, project manager and consultant in financial services organisations in the UK, Continental Europe and North America.
+# Stuart Gow's Repo
 
-See my LinkedIn profile for my career history: https://www.linkedin.com/in/gowstuart/
+I am half-way through my AI MSc at the University of Stirling and will be commencing a PhD at another institution this Autumn. This follows a long 'first' career as programme manager, project manager and consultant in financial services organisations in the UK, Continental Europe and North America.
+
+Some of my assignments, projects are published here. Hopefully, the projects will grow in complexity and worth!
+
+**Stuart**
